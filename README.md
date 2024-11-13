@@ -136,3 +136,16 @@ write_xlsx(agents_data, "dayton_real_estate_agents.xlsx")
 ![list](https://github.com/user-attachments/assets/2f8fa879-b131-4d6c-9577-ba27a51b02bb)
 
 
+
+# Output
+**The output files dayton_real_estate_agents.csv and dayton_real_estate_agents.xlsx contain the following columns:**
+
+- **Name:** Name of the real estate agent
+- **Company:** Company name associated with the agent
+- **Phone:** Contact phone number for the agent
+- **PropertiesForSale:** Number of properties currently listed by the agent
+- **PropertiesSold:** Number of properties sold by the agent
+- **ActivityRange:** Price range of properties managed by the agent
+
+# License
+- This project is licensed under the MIT License. See the LICENSE file for details.
